@@ -1,52 +1,52 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 public class Main {
-    public static int[][] arr;
+    public static ArrayList<Integer>[] arr;
     public static boolean[] visited;
+    static int ans = 0;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
-        arr = new int[M][2];
+        arr = new ArrayList[N];
         visited = new boolean[N];
 
+        for(int i = 0; i < N; i++) {
+            arr[i] = new ArrayList<Integer>();
+        }
+
         for (int i = 0; i < M; ++i) {
-            arr[i][0] = Integer.parseInt(st.nextToken());
-            arr[i][1] = Integer.parseInt(st.nextToken());
+            st = new StringTokenizer(br.readLine());
+            int n1 = Integer.parseInt(st.nextToken());
+            int n2 = Integer.parseInt(st.nextToken());
+            arr[n1].add(n2);
+            arr[n2].add(n1);
         }
-        for (int i = 0; i < N; ++i) {
-            visited[arr[i][0]] = true;
-            visited[arr[i][1]] = true;
-            abcde(0, i);
+        for(int i = 0; i < N; i++) {
+            if(ans == 0)
+                abcde(i, 1);
         }
-        
+        System.out.println(ans);
+        br.close();
     }
 
-    public static int abcde(int num, int index) {
-        int a = arr[index][0];
-        int b = arr[index][1];
-        num += 1;
-        if (num == 4) {
-            return 1;
+    public static void abcde(int index, int depth) {
+        if(depth == 5) {
+            ans = 1;
+            return;
         }
-        else if (num == 1) {
-            for (int i = index + 1; i < arr.length; ++i) {
-                if (!visited[arr[i][0]]) {
-                    visited[arr[i][0]] = true;
-                }
-                else if (!visited[arr[i][1]]) {
-                    visited[arr[i][1]] = true;
-                }
+
+        visited[index] = true;
+        for(int next : arr[index]) {
+            if(!visited[next]) {
+                abcde(next, depth + 1);
             }
         }
-        else {
-
-        }
-
-        return abcde(num, index + 1);
+        visited[index] = false;
     }
 }
