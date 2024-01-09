@@ -16,7 +16,7 @@ public class Main {
         arr = new ArrayList[N];
         visited = new boolean[N];
 
-        for(int i = 0; i < N; i++) {
+        for(int i = 0; i < N; ++i) {
             arr[i] = new ArrayList<Integer>();
         }
 
@@ -27,7 +27,7 @@ public class Main {
             arr[n1].add(n2);
             arr[n2].add(n1);
         }
-        for(int i = 0; i < N; i++) {
+        for(int i = 0; i < N; ++i) {
             if(ans == 0)
                 abcde(i, 1);
         }
@@ -36,8 +36,10 @@ public class Main {
     }
 
     public static void abcde(int index, int depth) {
+        System.out.println(index + " " + depth);
         if(depth == 5) {
             ans = 1;
+            System.out.println(5);
             return;
         }
 
