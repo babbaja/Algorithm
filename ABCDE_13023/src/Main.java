@@ -50,6 +50,5 @@ public class Main {
             }
         }
         visited[index] = false;
-        
     }
 }
