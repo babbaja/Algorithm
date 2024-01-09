@@ -5,56 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dea6d19d-8899-402d-9dcd-360adff4ab19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABCDE_13023/ABCDE_13023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classroom Assignment_11000/Classroom Assignment_11000.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Create Password_1759/Create Password_1759.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hi/Hi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pick subarray_2104/Pick subarray_2104.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum of subsequences/Sum of subsequences.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Z_1074/Z_1074.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a labyrinth search_2178/a labyrinth search_2178.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alien guitar_2841/alien guitar_2841.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alphabet_1987/alphabet_1987.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blcck_2xn/blcck_2xn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/block_2xn_2/block_2xn_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camping/camping.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/candy_3085/candy_3085.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coin_11047/coin_11047.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cutting tree_2805/cutting tree_2805.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dragon and dungeon_16434/dragon and dungeon_16434.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fill the box_1493/fill the box_1493.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/good friend_3078/good friend_3078.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guitar lesson_2343/guitar lesson_2343.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hide acorns_15732/hide acorns_15732.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/histogram/histogram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keylogger_5397/keylogger_5397.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kth number_1300/kth number_1300.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/make_1/make_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/max_card/max_card.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metting room_1931/metting room_1931.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min_card/min_card.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple_1629/multiple_1629.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num_baseball/num_baseball.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number of kins_2644/number of kins_2644.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number of papaer_1780/number of papaer_1780.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organic cabbage_1012/organic cabbage_1012.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus_123/plus_123.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus_123_2/plus_123_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postfix expression_1918/postfix expression_1918.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quad tree_1992/quad tree_1992.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repairman_1449/repairman_1449.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stair_num/stair_num.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp/temp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/term project_9466/term project_9466.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/warehouse polygon_2304/warehouse polygon_2304.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABCDE_13023/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ABCDE_13023/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,26 +29,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "/Users/joseungdae/Desktop/Java/Intellij/Test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/Users/joseungdae/Desktop/Java/Intellij/Test/candy_3085/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/joseungdae/Desktop/Java/Intellij/Test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/joseungdae/Desktop/Java/Intellij/Test/candy_3085/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -124,7 +76,8 @@
       <workItem from="1694573644153" duration="1515000" />
       <workItem from="1694787724754" duration="3285000" />
       <workItem from="1697377945831" duration="19000" />
-      <workItem from="1704773164379" duration="4787000" />
+      <workItem from="1704773164379" duration="5522000" />
+      <workItem from="1704782227781" duration="3631000" />
     </task>
     <servers />
   </component>
