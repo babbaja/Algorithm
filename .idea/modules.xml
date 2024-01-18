@@ -3,9 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ABCDE_13023/ABCDE_13023.iml" filepath="$PROJECT_DIR$/ABCDE_13023/ABCDE_13023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apt Numbering_2667/Apt Numbering_2667.iml" filepath="$PROJECT_DIR$/Apt Numbering_2667/Apt Numbering_2667.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bipartite Graph_1707/Bipartite Graph_1707.iml" filepath="$PROJECT_DIR$/Bipartite Graph_1707/Bipartite Graph_1707.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classroom Assignment_11000/Classroom Assignment_11000.iml" filepath="$PROJECT_DIR$/Classroom Assignment_11000/Classroom Assignment_11000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Connected Component_11724/Connected Component_11724.iml" filepath="$PROJECT_DIR$/Connected Component_11724/Connected Component_11724.iml" />
       <module fileurl="file://$PROJECT_DIR$/Create Password_1759/Create Password_1759.iml" filepath="$PROJECT_DIR$/Create Password_1759/Create Password_1759.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFS BFS_1260/DFS BFS_1260.iml" filepath="$PROJECT_DIR$/DFS BFS_1260/DFS BFS_1260.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exploring Maze_2178/Exploring Maze_2178.iml" filepath="$PROJECT_DIR$/Exploring Maze_2178/Exploring Maze_2178.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hi/Hi.iml" filepath="$PROJECT_DIR$/Hi/Hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Islands_4963/Islands_4963.iml" filepath="$PROJECT_DIR$/Islands_4963/Islands_4963.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pick subarray_2104/Pick subarray_2104.iml" filepath="$PROJECT_DIR$/Pick subarray_2104/Pick subarray_2104.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sum of subsequences/Sum of subsequences.iml" filepath="$PROJECT_DIR$/Sum of subsequences/Sum of subsequences.iml" />
       <module fileurl="file://$PROJECT_DIR$/V2.iml" filepath="$PROJECT_DIR$/V2.iml" />
@@ -45,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/temp/temp.iml" filepath="$PROJECT_DIR$/temp/temp.iml" />
       <module fileurl="file://$PROJECT_DIR$/term project_9466/term project_9466.iml" filepath="$PROJECT_DIR$/term project_9466/term project_9466.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomato_7576/tomato_7576.iml" filepath="$PROJECT_DIR$/tomato_7576/tomato_7576.iml" />
       <module fileurl="file://$PROJECT_DIR$/warehouse polygon_2304/warehouse polygon_2304.iml" filepath="$PROJECT_DIR$/warehouse polygon_2304/warehouse polygon_2304.iml" />
     </modules>
   </component>
