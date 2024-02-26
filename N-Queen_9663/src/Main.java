@@ -27,13 +27,12 @@ public class Main {
                 dfs(depth + 1);
             }
         }
-
     }
 
-    public static boolean check(int depth) {
-        for (int i = 0; i < depth; ++i) {
-            if (chess[depth] == chess[i]) return false;
-            else if (Math.abs(depth - i) == Math.abs(chess[depth] - chess[i])) return false;
+    public static boolean check(int index) {
+        for (int i = 0; i < index; ++i) {
+            if (chess[index] == chess[i]) return false;
+            else if (Math.abs(i - index) == Math.abs(chess[i] - chess[index])) return false;
         }
         return true;
     }
