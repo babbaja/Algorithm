@@ -54,11 +54,11 @@ public class Main {
                     int num = input.poll();
                     if (hash.contains(num)) {
                         queue.offer(num);
-                        hash.remove(num);
                     }
                     else return false;
                 }
             }
+            hash.clear();
         }
         return true;
     }

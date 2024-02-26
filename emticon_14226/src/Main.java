@@ -25,7 +25,7 @@ public class Main {
             int[] tmp = queue.poll();
 
             if (tmp[0] == end) return tmp[2];
-            
+
             //copy
             clipboard = tmp[0];
             queue.offer(new int[]{tmp[0], clipboard, tmp[2] + 1});

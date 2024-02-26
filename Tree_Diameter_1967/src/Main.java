@@ -26,22 +26,22 @@ public class Main {
             tree.add(new ArrayList<>());
         }
 
-        for (int i = 0; i < N; ++i) {
+        for (int i = 0; i < N - 1; ++i) {
             StringTokenizer st = new StringTokenizer(br.readLine());
             int index = Integer.parseInt(st.nextToken());
-            while (true) {
-                int node = Integer.parseInt(st.nextToken());
-                if (node == -1) break;
-                int value = Integer.parseInt(st.nextToken());
-                tree.get(index).add(new Node(node, value));
-            }
+            int node = Integer.parseInt(st.nextToken());
+            int value = Integer.parseInt(st.nextToken());
+            tree.get(index).add(new Node(node, value));
+            tree.get(node).add(new Node(index, value));
         }
 
-        visited = new boolean[N + 1];
-        dfs(2, 0);
+        for (int i = 1; i < N + 1; ++i) {
+            visited = new boolean[N + 1];
+            dfs(i, 0);
+        }
 
-        visited = new boolean[N + 1];
-        dfs(temp, 0);
+        //visited = new boolean[N + 1];
+        //dfs(temp, 0);
 
         System.out.println(max);
     }

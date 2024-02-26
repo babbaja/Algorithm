@@ -4,19 +4,41 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ABCDE_13023/ABCDE_13023.iml" filepath="$PROJECT_DIR$/ABCDE_13023/ABCDE_13023.iml" />
       <module fileurl="file://$PROJECT_DIR$/Apt Numbering_2667/Apt Numbering_2667.iml" filepath="$PROJECT_DIR$/Apt Numbering_2667/Apt Numbering_2667.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFS Special_16940/BFS Special_16940.iml" filepath="$PROJECT_DIR$/BFS Special_16940/BFS Special_16940.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bipartite Graph_1707/Bipartite Graph_1707.iml" filepath="$PROJECT_DIR$/Bipartite Graph_1707/Bipartite Graph_1707.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classroom Assignment_11000/Classroom Assignment_11000.iml" filepath="$PROJECT_DIR$/Classroom Assignment_11000/Classroom Assignment_11000.iml" />
       <module fileurl="file://$PROJECT_DIR$/Connected Component_11724/Connected Component_11724.iml" filepath="$PROJECT_DIR$/Connected Component_11724/Connected Component_11724.iml" />
       <module fileurl="file://$PROJECT_DIR$/Create Password_1759/Create Password_1759.iml" filepath="$PROJECT_DIR$/Create Password_1759/Create Password_1759.iml" />
       <module fileurl="file://$PROJECT_DIR$/DFS BFS_1260/DFS BFS_1260.iml" filepath="$PROJECT_DIR$/DFS BFS_1260/DFS BFS_1260.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFS Special_16964/DFS Special_16964.iml" filepath="$PROJECT_DIR$/DFS Special_16964/DFS Special_16964.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exploring Maze_2178/Exploring Maze_2178.iml" filepath="$PROJECT_DIR$/Exploring Maze_2178/Exploring Maze_2178.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gathering_Energy_16198/Gathering_Energy_16198.iml" filepath="$PROJECT_DIR$/Gathering_Energy_16198/Gathering_Energy_16198.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hi/Hi.iml" filepath="$PROJECT_DIR$/Hi/Hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hide and Seek3_13549/Hide and Seek3_13549.iml" filepath="$PROJECT_DIR$/Hide and Seek3_13549/Hide and Seek3_13549.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hide and Seek4_13913/Hide and Seek4_13913.iml" filepath="$PROJECT_DIR$/Hide and Seek4_13913/Hide and Seek4_13913.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hide ans Seek_1697/Hide ans Seek_1697.iml" filepath="$PROJECT_DIR$/Hide ans Seek_1697/Hide ans Seek_1697.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inequality_Sign_2529/Inequality_Sign_2529.iml" filepath="$PROJECT_DIR$/Inequality_Sign_2529/Inequality_Sign_2529.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insert_Operator_14888/Insert_Operator_14888.iml" filepath="$PROJECT_DIR$/Insert_Operator_14888/Insert_Operator_14888.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insert_Operator_15658/Insert_Operator_15658.iml" filepath="$PROJECT_DIR$/Insert_Operator_15658/Insert_Operator_15658.iml" />
       <module fileurl="file://$PROJECT_DIR$/Islands_4963/Islands_4963.iml" filepath="$PROJECT_DIR$/Islands_4963/Islands_4963.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lotto_6603/Lotto_6603.iml" filepath="$PROJECT_DIR$/Lotto_6603/Lotto_6603.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Making a bridge_2164/Making a bridge_2164.iml" filepath="$PROJECT_DIR$/Making a bridge_2164/Making a bridge_2164.iml" />
+      <module fileurl="file://$PROJECT_DIR$/N-Queen_9663/N-Queen_9663.iml" filepath="$PROJECT_DIR$/N-Queen_9663/N-Queen_9663.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pick subarray_2104/Pick subarray_2104.iml" filepath="$PROJECT_DIR$/Pick subarray_2104/Pick subarray_2104.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Start_and_Link_14889/Start_and_Link_14889.iml" filepath="$PROJECT_DIR$/Start_and_Link_14889/Start_and_Link_14889.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subway Line2_16947/Subway Line2_16947.iml" filepath="$PROJECT_DIR$/Subway Line2_16947/Subway Line2_16947.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sum of subsequences/Sum of subsequences.iml" filepath="$PROJECT_DIR$/Sum of subsequences/Sum of subsequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tetromino_14500/Tetromino_14500.iml" filepath="$PROJECT_DIR$/Tetromino_14500/Tetromino_14500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The_sum_of_the_partial_rows _14225/The_sum_of_the_partial_rows _14225.iml" filepath="$PROJECT_DIR$/The_sum_of_the_partial_rows _14225/The_sum_of_the_partial_rows _14225.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree Diameter_1167/Tree Diameter_1167.iml" filepath="$PROJECT_DIR$/Tree Diameter_1167/Tree Diameter_1167.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree_Diameter_1967/Tree_Diameter_1967.iml" filepath="$PROJECT_DIR$/Tree_Diameter_1967/Tree_Diameter_1967.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two Dots_16929/Two Dots_16929.iml" filepath="$PROJECT_DIR$/Two Dots_16929/Two Dots_16929.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two_Coin_16197/Two_Coin_16197.iml" filepath="$PROJECT_DIR$/Two_Coin_16197/Two_Coin_16197.iml" />
       <module fileurl="file://$PROJECT_DIR$/V2.iml" filepath="$PROJECT_DIR$/V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Word_Math_1339/Word_Math_1339.iml" filepath="$PROJECT_DIR$/Word_Math_1339/Word_Math_1339.iml" />
       <module fileurl="file://$PROJECT_DIR$/Z_1074/Z_1074.iml" filepath="$PROJECT_DIR$/Z_1074/Z_1074.iml" />
       <module fileurl="file://$PROJECT_DIR$/a labyrinth search_2178/a labyrinth search_2178.iml" filepath="$PROJECT_DIR$/a labyrinth search_2178/a labyrinth search_2178.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algospot_1261/algospot_1261.iml" filepath="$PROJECT_DIR$/algospot_1261/algospot_1261.iml" />
       <module fileurl="file://$PROJECT_DIR$/alien guitar_2841/alien guitar_2841.iml" filepath="$PROJECT_DIR$/alien guitar_2841/alien guitar_2841.iml" />
       <module fileurl="file://$PROJECT_DIR$/alphabet_1987/alphabet_1987.iml" filepath="$PROJECT_DIR$/alphabet_1987/alphabet_1987.iml" />
       <module fileurl="file://$PROJECT_DIR$/blcck_2xn/blcck_2xn.iml" filepath="$PROJECT_DIR$/blcck_2xn/blcck_2xn.iml" />
@@ -26,12 +48,16 @@
       <module fileurl="file://$PROJECT_DIR$/coin_11047/coin_11047.iml" filepath="$PROJECT_DIR$/coin_11047/coin_11047.iml" />
       <module fileurl="file://$PROJECT_DIR$/cutting tree_2805/cutting tree_2805.iml" filepath="$PROJECT_DIR$/cutting tree_2805/cutting tree_2805.iml" />
       <module fileurl="file://$PROJECT_DIR$/dragon and dungeon_16434/dragon and dungeon_16434.iml" filepath="$PROJECT_DIR$/dragon and dungeon_16434/dragon and dungeon_16434.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emticon_14226/emticon_14226.iml" filepath="$PROJECT_DIR$/emticon_14226/emticon_14226.iml" />
       <module fileurl="file://$PROJECT_DIR$/fill the box_1493/fill the box_1493.iml" filepath="$PROJECT_DIR$/fill the box_1493/fill the box_1493.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find the parent of the tree_11725/find the parent of the tree_11725.iml" filepath="$PROJECT_DIR$/find the parent of the tree_11725/find the parent of the tree_11725.iml" />
       <module fileurl="file://$PROJECT_DIR$/good friend_3078/good friend_3078.iml" filepath="$PROJECT_DIR$/good friend_3078/good friend_3078.iml" />
       <module fileurl="file://$PROJECT_DIR$/guitar lesson_2343/guitar lesson_2343.iml" filepath="$PROJECT_DIR$/guitar lesson_2343/guitar lesson_2343.iml" />
+      <module fileurl="file://$PROJECT_DIR$/height and width of the tree_2250/height and width of the tree_2250.iml" filepath="$PROJECT_DIR$/height and width of the tree_2250/height and width of the tree_2250.iml" />
       <module fileurl="file://$PROJECT_DIR$/hide acorns_15732/hide acorns_15732.iml" filepath="$PROJECT_DIR$/hide acorns_15732/hide acorns_15732.iml" />
       <module fileurl="file://$PROJECT_DIR$/histogram/histogram.iml" filepath="$PROJECT_DIR$/histogram/histogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/keylogger_5397/keylogger_5397.iml" filepath="$PROJECT_DIR$/keylogger_5397/keylogger_5397.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knight_7562/knight_7562.iml" filepath="$PROJECT_DIR$/knight_7562/knight_7562.iml" />
       <module fileurl="file://$PROJECT_DIR$/kth number_1300/kth number_1300.iml" filepath="$PROJECT_DIR$/kth number_1300/kth number_1300.iml" />
       <module fileurl="file://$PROJECT_DIR$/make_1/make_1.iml" filepath="$PROJECT_DIR$/make_1/make_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/max_card/max_card.iml" filepath="$PROJECT_DIR$/max_card/max_card.iml" />
@@ -52,6 +78,7 @@
       <module fileurl="file://$PROJECT_DIR$/term project_9466/term project_9466.iml" filepath="$PROJECT_DIR$/term project_9466/term project_9466.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/tomato_7576/tomato_7576.iml" filepath="$PROJECT_DIR$/tomato_7576/tomato_7576.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree circuit_1991/tree circuit_1991.iml" filepath="$PROJECT_DIR$/tree circuit_1991/tree circuit_1991.iml" />
       <module fileurl="file://$PROJECT_DIR$/warehouse polygon_2304/warehouse polygon_2304.iml" filepath="$PROJECT_DIR$/warehouse polygon_2304/warehouse polygon_2304.iml" />
     </modules>
   </component>

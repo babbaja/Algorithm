@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea6d19d-8899-402d-9dcd-360adff4ab19" name="Changes" comment="">
+    <list default="true" id="dea6d19d-8899-402d-9dcd-360adff4ab19" name="Changes" comment="7576">
+      <change afterPath="$PROJECT_DIR$/Gathering_Energy_16198/Gathering_Energy_16198.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tetromino_14500/Tetromino_14500.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABCDE_13023/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ABCDE_13023/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exploring Maze_2178/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exploring Maze_2178/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS Special_16940/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BFS Special_16940/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hide and Seek4_13913/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hide and Seek4_13913/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree Diameter_1167/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree Diameter_1167/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emticon_14226/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/emticon_14226/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Insert_Operator_14888/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2RjJKCi9StXvsccJGE6jFnPJA8M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,6 +51,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/joseungdae/Desktop/Java/Intellij/Test/candy_3085/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -79,8 +88,19 @@
       <workItem from="1694787724754" duration="3285000" />
       <workItem from="1697377945831" duration="19000" />
       <workItem from="1704773164379" duration="5522000" />
-      <workItem from="1704782227781" duration="42726000" />
+      <workItem from="1704782227781" duration="107569000" />
+      <workItem from="1706362350304" duration="6077000" />
+      <workItem from="1706420485163" duration="68104000" />
+      <workItem from="1707220098724" duration="22744000" />
     </task>
+    <task id="LOCAL-00001" summary="7576">
+      <created>1705562269950</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705562269950</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +116,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7576" />
+    <option name="LAST_COMMIT_MESSAGE" value="7576" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -130,6 +154,56 @@
           <line>33</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/knight_7562/src/Main.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/knight_7562/src/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/knight_7562/src/Main.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Two Dots_16929/src/Main.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Two Dots_16929/src/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algospot_1261/src/Main.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algospot_1261/src/Main.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algospot_1261/src/Main.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algospot_1261/src/Main.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/The_sum_of_the_partial_rows _14225/src/Main.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
           <option name="timeStamp" value="17" />
@@ -140,5 +214,8 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test$Main.ic" NAME="Main Coverage Results" MODIFIED="1706420465203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
