@@ -64,14 +64,14 @@ public class Main {
             int[] tmp = queue.poll();
 
             for (int i = 0; i < 4; ++i) {
-                int nx = tmp[0] + dx[i];
-                int ny = tmp[1] + dy[i];
+                int nextX = tmp[0] + dx[i];
+                int nextY = tmp[1] + dy[i];
 
-                if (nx < 0 || nx >= arr1.length || ny < 0 || ny >= arr1[0].length) continue;
+                if (nextX < 0 || nextX >= arr1.length || nextY < 0 || nextY >= arr1[0].length) continue;
 
-                if (arr1[nx][ny] == 0) {
-                    arr1[nx][ny] = 2;
-                    queue.offer(new int[]{nx, ny});
+                if (arr1[nextX][nextY] == 0) {
+                    arr1[nextX][nextY] = 2;
+                    queue.offer(new int[]{nextX, nextY});
                 }
             }
         }
