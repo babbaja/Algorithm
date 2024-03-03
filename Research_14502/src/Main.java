@@ -13,7 +13,6 @@ public class Main {
     public static int[] dy = new int[] {0, -1, 0, 1};
     public static int ans = 0;
     public static ArrayList<int[]> virus;
-    public static boolean[][] visited;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -33,23 +32,13 @@ public class Main {
         }
         wall(0);
         System.out.println(ans);
-        /*
-        System.out.println();
-        for (int i = 0; i < N; ++i) {
-            for (int j = 0; j < M; ++j) {
-                System.out.printf("%d ", arr[i][j]);
-            }
-            System.out.println();
-        }
-
-         */
     }
 
     public static void wall(int cnt) {
         if (cnt == 3) {
             arr1 = new int[arr.length][arr[0].length];
             for (int i = 0; i < arr.length; i++) {
-                System.arraycopy(arr[i], 0, arr1[i], 0, arr[i].length);
+                arr1[i] = arr[i].clone();
             }
             ans = Math.max(ans, bfs());
             return;
@@ -64,7 +53,6 @@ public class Main {
                 }
             }
         }
-
     }
 
     public static int bfs() {
